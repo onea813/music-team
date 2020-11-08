@@ -1,0 +1,11 @@
+#header{
+    background: url("https://images.unsplash.com/photo-1487215078519-e21cc028cb29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60") center center / cover no-repeat;
+    overflow: hidden;
+}
+.display-4{
+    color: white;
+}
+.lead{
+    color: white;
+}
+
